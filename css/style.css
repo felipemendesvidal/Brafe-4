@@ -14,10 +14,16 @@ body {
 	box-sizing: border-box;
 }
 
+img {
+	display: block;
+	max-width: 100%;
+}
+
 /* Menu */
 
 .menu {
 	background: #252525;
+	padding: 15px 0px;
 }
 
 .menu-nav a {
